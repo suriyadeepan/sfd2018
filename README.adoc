@@ -1,0 +1,12 @@
+= Software Freedom Day 2018
+
+
+== Data Visualization
+
+*Weather Station Data Visualization with NodeBox
+
+== Data Manipulation
+
+== Generative Art
+
+*Spirograph
