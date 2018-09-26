@@ -1,12 +1,14 @@
 = Software Freedom Day 2018
 
+:o: pass:normal[+[\nbsp}]+]
+:c: pass:normal[+[&#10004;]+]
 
 == Data Visualization
 
-*Weather Station Data Visualization with NodeBox
-
-== Data Manipulation
+* [ ] Weather Station Data Visualization with NodeBox
 
 == Generative Art
 
-*Spirograph
+* [x] Spirograph
+
+== Data Manipulation
